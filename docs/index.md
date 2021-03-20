@@ -6,11 +6,10 @@
 
 b站主页：https://space.bilibili.com/542846352
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+个人邮箱：810724413@qq.com
 
-### Jekyll Themes
+### 建站时间
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaochangcheng/xiaochangcheng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-### Support or Contact
+本网页于2021.3.20公测
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+©2021 肖常成 保留所有权力。       使用 Github 创建
