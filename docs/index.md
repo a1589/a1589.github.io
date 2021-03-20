@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## 欢迎来到肖常成的个人主页！
 
-You can use the [editor on GitHub](https://github.com/xiaochangcheng/xiaochangcheng.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
+网页正在建设中，欢迎给我提供建议！
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 联系我们
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+b站主页：https://space.bilibili.com/542846352
 
 ```markdown
 Syntax highlighted code block
