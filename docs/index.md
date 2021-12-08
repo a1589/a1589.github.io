@@ -25,11 +25,12 @@ office部署工具：https://otp.landian.vip/zh-cn/
 b站主页：https://space.bilibili.com/542846352
 
 个人邮箱：810724413@qq.com
+
 QQ群：824504136（里面有一些实用软件，欢迎进群讨论！）
 
 ### 建站时间
 
-本网页于2021.3.20公测，网页正在建设中，欢迎给我提供建议！
+本网页于2021.3.20内测，网页正在建设中，欢迎给我提供建议！
 
 ©2021  保留所有权力。       使用 Github 创建
 ![ohhhhh](https://user-images.githubusercontent.com/74668484/111892856-f6019580-8a39-11eb-838d-f7909e301595.gif)
